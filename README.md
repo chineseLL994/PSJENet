@@ -1,7 +1,6 @@
 # Joint-Pixel--and-Structure-Level-Enhancement-for-RGB-D-Video-Salient-Object-Detection
 The codes of Joint Pixel- and Structure-Level Enhancement for RGB-D Video Salient Object Detection
 
-🏃 The code is on the way...... 🏃 Our code will be publicly released after the paper is accepted.
 
 # Requirements
 * Python 3.10
